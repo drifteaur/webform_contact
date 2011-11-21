@@ -25,4 +25,8 @@ projects[uuid][version] = "1.0-alpha2"
 projects[webform][subdir] = "sites/all/modules/contrib/webform"
 projects[webform][version] = "3.13"
 
+projects[webform_contact][subdir] = features
+projects[webform_contact][download][type] = git
+projects[webform_contact][download][url] = git://github.com/tanarurkerem/webform_contact.git/webform_contact.git
+projects[webform_contact][download][branch] = master
 
