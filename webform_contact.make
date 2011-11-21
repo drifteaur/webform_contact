@@ -26,6 +26,7 @@ projects[webform][subdir] = "sites/all/modules/contrib/webform"
 projects[webform][version] = "3.13"
 
 projects[webform_contact][subdir] = features
+projects[webform_contact][type] = module
 projects[webform_contact][download][type] = git
 projects[webform_contact][download][url] = git://github.com/tanarurkerem/webform_contact.git
 
